@@ -3,4 +3,4 @@ var number2 = parseInt(prompt("Enter second number"));
 
 var add = number1 + number2;
 
-console.log(add);
+console.log(`${number1} + ${number2} = ${add}`);
